@@ -5,3 +5,11 @@
 *testing Italic text*
 
 <sub>Trying out the subscript text</sub>
+
+List of random things
+
+- Coins
+- train
+- light
+
+![Here is a cat](https://cdn.britannica.com/39/7139-050-A88818BB/Himalayan-chocolate-point.jpg)
